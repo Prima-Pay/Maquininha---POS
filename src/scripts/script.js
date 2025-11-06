@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             },
             umDia: {
-                debito: 1.89, 
+                debito: 1.39, 
                 credito: 2.95, 
                 parcelado: { 
                     "default": 8.11, "2": 4.99, "3": 5.78, "4": 6.56, "5": 7.34, "6": 8.11,
